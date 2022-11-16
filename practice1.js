@@ -1,4 +1,4 @@
-function lifeInWeeks(age) {
+function lifeInWeeks(age) {  //age is parameter.  lifeInWeeks is functionName.
     
   
 var yearsRemaining = 90-age;
@@ -11,3 +11,7 @@ var months = yearsRemaining*12;
 
 }
 lifeInWeeks(22);
+
+//22 arguments 
+
+// age(parameter)=22(arguments)
